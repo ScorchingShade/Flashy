@@ -28,12 +28,12 @@
   Flashy gives you a quiz generating app with multiple categories and plethora of questions to test your skills!
   <br>
   
-<p align="center"><img src="https://github.com/ScorchingShade/Pinch/blob/master/img/pinch_main.jpg"></p>
+<p align="center"><img src="https://github.com/ScorchingShade/Flashy/blob/master/Screenshot%202021-07-06%20at%204.00.08%20AM.png"></p>
 
 <br>
 <br>
 
-Live example [here](https://scorchingshade.github.io/Pinch/).
+Live example [here](https://scorchingshade.github.io/Flashy/).
 
 
 <br>
