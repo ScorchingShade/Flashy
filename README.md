@@ -19,3 +19,22 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 
+## Basic Overview - Version 1.03
+
+- Update -> Added the basic web functionality
+  <br>
+  Are you ready for a quiz? Then head over to Flashy to test your skills!
+  <br>
+  Flashy gives you a quiz generating app with multiple categories and plethora of questions to test your skills!
+  <br>
+  
+<p align="center"><img src="https://github.com/ScorchingShade/Pinch/blob/master/img/pinch_main.jpg"></p>
+
+<br>
+<br>
+
+Live example [here](https://scorchingshade.github.io/Pinch/).
+
+
+<br>
+<br>
